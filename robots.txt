@@ -1,0 +1,2 @@
+User-agent: *Allow:/
+Sitemap: https://gangwondo-covid19.netlify.app/sitemap.xml
